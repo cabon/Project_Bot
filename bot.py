@@ -9,8 +9,7 @@ from telnetlib import *
 
 host = 'irc.hanirc.org'
 port = 6668
-#channel = '#fbk'
-channel = '#HANOSBOTEST'
+channel = '#fbk'
 prefix = '##'
 trans_flag = 0			# 1 is got cryptography, 0 is needed
 
